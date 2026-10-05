@@ -1,0 +1,13 @@
+{
+  "itemGroup.grapnel": "Example Mod Tab",
+  "block.grapnel.example_block": "Example Block",
+  "item.grapnel.example_item": "Example Item",
+
+  "grapnel.configuration.title": "Grapnel Configs",
+  "grapnel.configuration.section.grapnel.common.toml": "Grapnel Configs",
+  "grapnel.configuration.section.grapnel.common.toml.title": "Grapnel Configs",
+  "grapnel.configuration.items": "Item List",
+  "grapnel.configuration.logDirtBlock": "Log Dirt Block",
+  "grapnel.configuration.magicNumberIntroduction": "Magic Number Text",
+  "grapnel.configuration.magicNumber": "Magic Number"
+}
