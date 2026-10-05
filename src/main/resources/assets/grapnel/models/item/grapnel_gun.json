@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "grapnel:item/grapnel_gun_inactive"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [ 15, 90, -25 ],
+      "translation": [ 2.0, 3.2, -0.5 ],
+      "scale": [ 0.68, 0.68, 0.68 ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [ 15, 90, -25 ],
+      "translation": [ 2.0, 3.2, -0.5 ],
+      "scale": [ 0.68, 0.68, 0.68 ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [ 0, 90, 0 ],
+      "translation": [ 0, 1.0, 1.5 ],
+      "scale": [ 0.55, 0.55, 0.55 ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "grapnel:pulling": 1.0
+      },
+      "model": "grapnel:item/grapnel_gun_active"
+    }
+  ]
+}

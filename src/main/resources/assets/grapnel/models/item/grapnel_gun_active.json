@@ -1,0 +1,6 @@
+{
+    "parent": "grapnel:item/grapnel_gun",
+    "textures": {
+        "layer0": "grapnel:item/grapnel_gun_active"
+    }
+}
